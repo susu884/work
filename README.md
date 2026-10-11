@@ -13,7 +13,7 @@
 | **Education** | 수원대학교 미디어커뮤니케이션학과 (졸업) |
 | **Contact** | `zpsel5856@naver.com` |
 | **Career** | 리얼투데이 (2021.10-23.04)<br/>쌩끄프로덕션(2023.07-2026.01)|
-| **license** | `컴퓨터활용능력1급` `SQLD` `ADsP`|
+| **license** | `SQLD` `ADsP` `컴퓨터활용능력1급` |
 
 
 ## 🛠 Tech Stack
