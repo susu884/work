@@ -36,6 +36,7 @@
 - 라이선스: 공개 데이터(Public Domain) — CMU StatLib 배포본
 - 참고한 커널·문서:
   - scikit-learn 1.2 릴리스 노트 — `load_boston` 제거 사유(`B` 변수의 윤리적 문제)
+- 분석에 사용한 라이브러리: `jussam` (데이터 로딩·분석 보조 함수) — https://juyounga.kr/
 
 ## 회고
 
