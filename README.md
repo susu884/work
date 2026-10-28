@@ -46,11 +46,11 @@
 |:--:|---|:--:|
 | 01 | [4개국 쇼핑몰의 스킨케어 크림 리뷰 텍스트마이닝·머신러닝 분석](https://github.com/susu884/work/tree/main/01.%20[Main%20Portfolio]%20Skincare%20Cream%20Review%20Data%20Analysis_Four-Country%20Online%20Malls) | 머신러닝 · 분류 |
 | 02 | [다이아몬드 가격 예측](https://github.com/susu884/work/tree/main/02.%20Diamond_Price_Prediction_linear_regression) | 선형회귀 |
-| 03 | 보스턴 하우징 가격 결정요인 | 선형회귀 |
-| 04 | 사과 품종 분류 | 로지스틱 회귀 |
-| 05 | 피마 인디언 여성 당뇨병 여부 | 로지스틱 회귀 |
-| 06 | 캘리포니아 하우징 중위 가격 예측 | 머신러닝 · 예측 |
-| 07 | SQL 문제 풀이 | SQL |
+| 03 | [보스턴 하우징 가격 결정요인](https://github.com/susu884/work/tree/main/03.%20Boston_Housing_Linear_Regression) | 선형회귀 |
+| 04 | [사과 품종 분류](https://github.com/susu884/work/tree/main/04.%20Apple_Quality_Logistic_Regression) | 로지스틱 회귀 |
+| 05 | [피마 인디언 여성 당뇨병 여부](https://github.com/susu884/work/tree/main/05.%20Pima_Indians_Diabetes_Logistic_Regression) | 로지스틱 회귀 |
+| 06 | [캘리포니아 하우징 중위 가격 예측](https://github.com/susu884/work/tree/main/06.%20Califonia_Housing_Machine%20Learning) | 머신러닝 · 예측 |
+| 07 | [SQL 문제 풀이](https://github.com/susu884/work/blob/main/07.%20SQL_portfolio.pdf) | SQL |
 
 **공통 모듈** — [`helpers/`](./helpers/)
 품질 점검(`my_qtcheck`) · 시각화(`my_plot`) · 통계 검정(`my_stats`) · 전처리(`my_prep`) · 선형회귀(`my_ols`) · 로지스틱 회귀(`my_logit`)
