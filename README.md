@@ -44,12 +44,12 @@
 
 | # | 프로젝트 | 기법 |
 |:--:|---|:--:|
-| 01 | [4개국 쇼핑몰의 스킨케어 크림 리뷰 분석](https://github.com/susu884/work/tree/main/01.%20[Main%20Portfolio]%20Skincare%20Cream%20Review%20Data%20Analysis_Four-Country%20Online%20Malls) | 덱스트마이닝 / 머신러닝 · 분류 |
+| 01 | [[Main Portfolio] 4개국 쇼핑몰의 스킨케어 크림 리뷰 분석](https://github.com/susu884/work/tree/main/01.%20[Main%20Portfolio]%20Skincare%20Cream%20Review%20Data%20Analysis_Four-Country%20Online%20Malls) | 덱스트마이닝 · 머신러닝(분류) |
 | 02 | [다이아몬드 가격 예측](https://github.com/susu884/work/tree/main/02.%20Diamond_Price_Prediction_linear_regression) | 선형회귀 |
 | 03 | [보스턴 하우징 가격 결정 요인](https://github.com/susu884/work/tree/main/03.%20Boston_Housing_Linear_Regression) | 선형회귀 |
 | 04 | [사과 품종 분류](https://github.com/susu884/work/tree/main/04.%20Apple_Quality_Logistic_Regression) | 로지스틱 회귀 |
 | 05 | [피마 인디언 여성 당뇨병 여부 분류](https://github.com/susu884/work/tree/main/05.%20Pima_Indians_Diabetes_Logistic_Regression) | 로지스틱 회귀 |
-| 06 | [캘리포니아 하우징 중위 가격 예측](https://github.com/susu884/work/tree/main/06.%20Califonia_Housing_Machine%20Learning) | 머신러닝 · 예측 |
+| 06 | [캘리포니아 하우징 중위 가격 예측](https://github.com/susu884/work/tree/main/06.%20Califonia_Housing_Machine%20Learning) | 머신러닝(예측) |
 | 07 | [SQL 문제 풀이](https://github.com/susu884/work/blob/main/07.%20SQL_portfolio.pdf) | SQL |
 
 **공통 모듈** — [`helpers/`](./helpers/)
