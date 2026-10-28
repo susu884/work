@@ -11,7 +11,7 @@
 | **Role** | Data Analyst / Data Collector |
 | **Focus** | 데이터 전처리 · 데이터 시각화 · 데이터 분석 |
 | **Education** | 수원대학교 미디어커뮤니케이션학과 (졸업) |
-| **Contact** | `zpsel5856@naver.com` |
+| **Contact** | `j_susuu@naver.com` |
 | **Career** | 리얼투데이 (2021.10-23.04)<br/>쌩끄프로덕션(2023.07-2026.01)|
 | **license** | `SQLD` `ADsP` `컴퓨터활용능력1급` |
 
@@ -62,7 +62,7 @@
 
 ![PHONE](https://img.shields.io/badge/PHONE-010.4277.5856-brightgreen?style=for-the-badge)
 <br/>
-![Email](https://img.shields.io/badge/Email-zpsel5856@naver.com-red?style=for-the-badge)
+![Email](https://img.shields.io/badge/Email-j_susuu@naver.com-red?style=for-the-badge)
 
 <sub>Data Collection · Data Preprocessing · Exploratory Data Analysis · Modeling · Machine Learning</sub>
 
